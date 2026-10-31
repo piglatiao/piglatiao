@@ -43,17 +43,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 <div align="center">
 
-<!-- 基础统计卡片 -->
-<img src="https://github-readme-stats.vercel.app/api?username=piglatiao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
-
-<!-- 语言统计卡片 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piglatiao&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="40%" />
-
-<!-- 连续提交打卡 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piglatiao&theme=tokyonight&hide_border=true&background=00000000" width="48%" />
+<!-- 连续提交打卡，这个国内访问稳定性最好 -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=piglatiao&theme=tokyonight&hide_border=true&background=00000000" alt="github streak" />
 
 </div>
 
