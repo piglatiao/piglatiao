@@ -31,6 +31,8 @@
 
 </div>
 
+---
+
 ## 📌 Featured Projects
 > 🔒 注：铁路业务相关商业项目代码涉密，不公开，仅在简历与面试中展示方案与成果
 - [Fyre](https://github.com/piglatiao/Fyre)：Next.js + TS + Prisma + MySQL 一体化动态博客系统，自带后台管理，完整Web全栈实践
@@ -38,6 +40,24 @@
 - 自研离线USB中转转发方案：弱网/无办公网环境，USB链路转发网络请求，解决现场手持终端离线访问业务系统痛点
 - RSSI雷达人员出入过滤算法：基于盘点器原始信号数据建模，实现95%+误报过滤，适配仓储安防场景
 - 多款铁路专用CAD绘图插件、电缆径路采集APP、实景导航APP、智能备品柜/图档柜配套软件、贯通地线预警平台、智慧仓储整套接入系统
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+<!-- 基础统计卡片 -->
+<img src="https://github-readme-stats.vercel.app/api?username=piglatiao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
+
+<!-- 语言统计卡片 -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piglatiao&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="40%" />
+
+<!-- 连续提交打卡 -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=piglatiao&theme=tokyonight&hide_border=true&background=00000000" width="48%" />
+
+</div>
+
+---
 
 ## 🎯 Focus & Interest
 - 工业现场非标软件、离线弱网场景通信方案
@@ -48,11 +68,11 @@
 
 ## 📫 Contact
 - GitHub: https://github.com/piglatiao
+
 > 欢迎交流工控、铁路信息化、全栈开发、串口通信相关技术
 
----
-
 <div align="center">
+
 
 
 </div>
